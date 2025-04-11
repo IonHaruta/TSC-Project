@@ -122,8 +122,3 @@ Acest proiect utilizează un microcontroller **ESP32-C6** pentru gestionarea unu
 - Componentele au fost amplasate compact, ținând cont de răcire și accesibilitate.
 - Codul sursă este scris în C++ folosind framework-ul Arduino pentru ESP32-C6.
 
----
-
-Dacă ai deja randările sau bloc-diagrama, înlocuiești `[Block Diagram](./block-diagram.png)` cu path-ul corect către imagine. Pot să te ajut și să desenez una pentru tine dacă îmi dai ce module ai folosit.
-
-Vrei să-ți transform acest conținut direct în fișierul `README.md` ca să-l copiezi ușor în proiect?
