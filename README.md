@@ -150,7 +150,7 @@ Acest proiect utilizează un microcontroller **ESP32-C6** pentru gestionarea unu
 
 
 
-##Conectarea componentelor
+## Conectarea componentelor
 
 - **DHT22**: Pinul de semnal al senzorului este conectat la **GPIO4**. Alimentarea senzorului este făcută de la 3.3V și GND.
 - **Display OLED SSD1306**: Conectat la magistrala I2C:
